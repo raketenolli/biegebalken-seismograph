@@ -13,4 +13,4 @@ Der Seismograph besteht im Prinzip aus folgenden Komponenten:
  * Heizwiderstand
  * LEDs zur Zustandsanzeige
 
-[ERWEITERN]
+Mehr Informationen im [Wiki des Hackerspace Bremen](https://wiki.hackerspace-bremen.de/projekt/arduino_learning_cubes/biegebalkenseismograph)
