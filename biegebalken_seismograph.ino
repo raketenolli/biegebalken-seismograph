@@ -71,12 +71,8 @@ void loop() {
     LED_status(0,1,1);
   }
 
-//  for(pos = 30; pos <= 150; pos += 30)
-//  {
-//    myservo.write(pos);
-//    delay(500);
-//  } 
-//  MsTimer2::stop();
+  pos = int(constrain(map(f, 0, 1000, 0, 180), 0, 180));
+  myservo.write(pos);
 
 }
 
